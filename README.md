@@ -26,6 +26,8 @@ Finalmente ejecutamos el siguiente comando para evitar que *Git* nos informe del
 
 ## TODO
 
-[] Scrip de instalación
-[] Hacer que el scrip de instalación haga copia de seguridad de los archivos de configuración por defecto
-[] Documentar todos los programas y dependencias
+- [ ] Scrip de instalación
+
+- [ ] Hacer que el scrip de instalación haga copia de seguridad de los archivos de configuración por defecto
+
+- [ ] Documentar todos los programas y dependencias
