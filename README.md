@@ -14,7 +14,7 @@ En primer lugar incorporamos el siguiente alias al shell que estemos usando:
 
 Clonamos como *bare repository* (bare flag activada) el repositorio.
 
-`git clone --bare https://github.com/joseantoniols1212/dotfiles.git $HOME/.dotfiles`
+`git clone --bare https://github.com/joseantoniols1212/.dotfiles.git $HOME/.dotfiles`
 
 Hacemos una copia de seguridad de los archivos de configuración por defecto y hacemos *checkout* para desplegar nuestros archivos de configuración.
 
