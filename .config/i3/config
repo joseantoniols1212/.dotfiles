@@ -197,7 +197,7 @@ bar {
 }
 
 # GAPS
-smart_gaps on
+# smart_gaps on
 smart_borders on
 for_window [class="^.*"] border pixel 2
 gaps inner 3
@@ -208,7 +208,7 @@ exec --no-startup-id feh --bg-fill $HOME/Imágenes/Wallpapers/wallpaper1.jpg &
 
 # Picom
 # exec picom --experimental-backends --config $HOME/.config/picom/picom.conf & 
-exec --no-startup-id picom --experimental-backends --config $HOME/.config/picom/picom.conf &
+exec --no-startup-id picom --config $HOME/.config/picom/picom.conf &
 
 # Autotiling
 exec --no-startup-id $HOME/.config/i3/alternating_layouts.py
