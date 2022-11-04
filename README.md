@@ -20,7 +20,7 @@ Hacemos una copia de seguridad de los archivos de configuración por defecto y h
 
 `dotfiles checkout`
 
-Finalmente ejecutamos el siguiente comando para evitar que *Git* nos informe delos archivos sin seguimiento:
+Finalmente ejecutamos el siguiente comando para evitar que *Git* nos informe de los archivos sin seguimiento:
 
 `dotfiles config --local status.showUntrackedFiles no`
 
@@ -31,3 +31,11 @@ Finalmente ejecutamos el siguiente comando para evitar que *Git* nos informe del
 - [ ] Hacer que el scrip de instalación haga copia de seguridad de los archivos de configuración por defecto
 
 - [ ] Documentar todos los programas y dependencias
+
+  - [ ] Flameshot
+  - [ ] Blueman
+  - [ ] Oh-my-zsh
+  - [ ] Polybar
+  - [ ] gdm3
+  - [ ] zsh
+  - [ ] xournal++
